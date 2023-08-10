@@ -32,5 +32,6 @@ Hola me llamo Martina Falco Leguizamón, tengo 20 años, cumplo el 30 de abril. 
 Me gustan los jueguitos, las pelis de terror, el anime, los animales (tengo 5).
 
 Les dejo una imagen mía 
+![image](https://github.com/obj1-unahur-2023s2/presentacionpersonal-MartinaFalco/assets/141636473/d742dd4e-d95e-4455-8847-1fcddd1d0a4d)
 
-![subir archivo de imagen](imagen.jpg)
+
