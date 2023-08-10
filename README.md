@@ -27,7 +27,7 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Hola me llamo Martina Falco Leguizamón, tengo 20 años, cumplo el 30 de abril. Empecé la carrera de programación en el 2022, estoy en segundo año (finalmente aprobé programación estructurada).
+Hola me llamo Martina Falco, tengo 20 años, cumplo el 30 de abril. Empecé la carrera de programación en el 2022, estoy en segundo año (finalmente aprobé programación estructurada).
 
 Me gustan los jueguitos, las pelis de terror, el anime, los animales (tengo 5).
 
